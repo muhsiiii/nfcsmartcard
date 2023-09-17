@@ -1,0 +1,427 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,600&display=swap');
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Inter', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Rubik', sans-serif;
+}
+ul li {
+  list-style: none;
+}
+.h-p{
+    color: #fff !important;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+.green-bg{
+  padding: 100px;
+  border-radius: 10px;
+}
+.details{
+  padding: 15px;
+}
+.bussines-profile-dv{
+  background: #fff;
+  padding: 20px;
+  margin-top: -100px;
+  border-radius: 10px;
+}
+.business-text{
+  font-weight: 400;
+  padding-bottom: 10px;
+}
+.business-profile-dv-details{
+  background: #F8F9FA;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+}
+.profile-img{
+  width: 150px;
+  border-radius: 10px;
+}
+.bs-profile-details{
+  padding-left: 20px;
+}
+.email , .number, .date{
+  color:  #718096;
+  font-weight: 400;
+  padding-bottom: 7px;
+}
+.name{
+  padding-bottom: 5px;
+  font-size: 28px;
+}
+.icons-bs-profile{
+  padding: 10px;
+  width: 45px;
+  background: #fff;
+  border-radius: 10px;
+}
+.bs-social-icons a:hover{
+  text-decoration: none;
+}
+.bs-social-icons{
+  display: table;
+  margin-left: auto;
+}
+.bio-dv{
+  padding: 15px;
+  border-radius: 10px;
+  width: 48%;
+}
+.heading-bio i{
+  color: #4FD1C5;
+  padding: 5px 10px;
+  font-size: 24px;
+  background: #fff;
+  border-radius: 7px;
+  margin-right: 10px;
+}
+.heading-bio{
+  display: flex;
+  align-items: center;
+}
+.bio-head-text{
+  font-weight: 400;
+}
+.bio-address-dv{
+  background: #F8F9FA;
+  display: flex;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 10px;
+  flex-wrap: wrap !important;
+  justify-content: space-between;
+}
+.bio-head-text{
+  font-size: 22px;
+  font-weight: 600;
+}
+.sub-text-bio{
+  padding-top: 10px;
+}
+.medical-main-dv{
+  background: #fff;
+  padding: 20px;
+  margin-top: -100px;
+  border-radius: 10px;
+}
+.img-and-prf-details{
+  display: flex;
+}
+/* home page  */
+.business-card{
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.19);
+}
+.business-name{
+  font-size: 24px;
+}
+.business-content{
+  padding-left: 15px;
+}
+.card-deatails{
+  display: flex;
+}
+.bs-social-icons-main{
+  margin: 10px 0px 0px 0px;
+}
+.bio-add-bsnss{
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.19);
+}
+.medical-details{
+  background: #F8F9FA;
+  padding: 15px;
+  border-radius: 10px;
+}
+.emg-dv{
+  display: flex;
+  align-items: center;
+}
+.emg-text{
+  font-size: 18px;
+  padding-left: 15px;
+}
+.emg-dv i{
+  font-size: 22px;
+  padding: 5px 10px;
+  background: #fff;
+  border-radius: 10px;
+}
+.medical-person-details{
+  margin-bottom: 15px;
+}
+.bs-social-icons-main a:hover{
+  text-decoration: none !important;
+}
+/* theme 2  */
+.conatainer-main-two{
+  width: 85%;
+  margin: auto;
+}
+.theme-two-usr-txt{
+  font-weight: 400;
+  color: #2D3748;
+}
+.user-prfl-dv{
+  padding: 25px 0px;
+}
+.profile-box-theme-two{
+  width: 100%;
+  background: #ffff !important;
+  border: 1px solid #A9A9A9;
+  padding: 20px;
+  border-radius: 20px;
+}
+.theme-two-profile-img{
+  border-radius: 20px;
+  width: 70%;
+  margin: auto;
+  display: table;
+}
+.name-theme-two{
+  font-size: 24px;
+  padding: 15px 0px;
+}
+.sub-txt-post-theme-two{
+  font-weight: 400;
+  color: #718096 !important;
+  font-size: 17px;
+  padding-bottom: 7px;
+}
+.sub-txt-post-theme-two a:hover{
+  text-decoration: none;
+  color: #718096;
+}
+.sub-txt-post-theme-two a{
+  color: #718096 !important;
+}
+.bs-social-icons-thm-2{
+  display: table;
+  margin: auto;
+  padding: 20px 0px;
+}
+.bio-add-dv-theme-2{
+  width: 100%;
+}
+.bio-dv-theme-two{
+  background: #fff;
+  border: 1px solid #A9A9A9;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+.bio-dv-theme-two i{
+  color: #BF0101;
+  font-size: 25px;
+}
+.head-txt-main-theme-two{
+  font-size: 20px;
+  padding-left: 20px;
+}
+.box-bio-add-thm-2{
+  display: flex;
+  align-items: center;
+  padding-bottom: 15px;
+}
+.medical-det-theme-two{
+  background: #fff;
+  border: 1px solid #A9A9A9;
+  padding: 20px;
+  border-radius: 20px;
+}
+.medical-det-theme-two .medical-details{
+  background: none;
+}
+.business-profile-main-box{
+  width: 100% !important;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.business-profile-main-box .profile-box-theme-two{
+  width: 30% !important;
+}
+.business-profile-main-box .bio-add-dv-theme-2{
+  width: 40%;
+  padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* responsive style  */
+@media (min-width:2000px) {
+  .container-main{
+    width: 70% !important;
+  }
+}
+@media (max-width:1300px) {
+  .name{
+    font-size: 22px;
+  }
+  .email , .number, .date{
+    font-size: 14px;
+  }
+  .conatainer-main-two {
+    width: 93%;
+  }
+  .bs-social-icons-thm-2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .profile-box-theme-two {
+    padding: 15px;
+  }
+  .theme-two-profile-img {
+    width: 90%;
+  }
+  .profile-box-theme-two {
+    margin-bottom: 25px;
+  }
+  .med-pading-no{
+    padding: 0px !important;
+  }
+
+}
+@media (max-width:1200px) {
+  .business-profile-main-box .profile-box-theme-two {
+    width: 35% !important;
+  }
+  .business-profile-main-box .bio-add-dv-theme-2 {
+    width: 50%;
+  }
+}
+@media (max-width:991px) {
+  .medical-main-dv{
+    margin-top: 30px;
+  }
+  .business-profile-dv-details {
+    display: block;
+  }
+  .bio-address-dv {
+    display: block;
+  }
+  .bio-dv {
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  .bs-social-icons {
+   margin-top: 30px !important;
+  }
+  .bio-add-bsnss {
+    display: block;
+    margin-top: 20px;
+   }
+   .card-deatails {
+    display: block;
+  }
+  .business-profile-main-box {
+    display: block;
+  }
+  .business-profile-main-box .profile-box-theme-two {
+    width: 100% !important;
+  }
+  .business-profile-main-box .bio-add-dv-theme-2 {
+    width: 100%;
+    padding-left: 0px;
+  }
+}
+@media (max-width:600px) {
+  .img-and-prf-details {
+    display: block;
+  }
+  .profile-img {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px !important;
+  }
+  .bs-social-icons {
+    margin-right: auto;
+  }
+  .medical-main-dv{
+    margin-top: 10px;
+  }
+}
+@media (max-width:550px) {
+  .name {
+    font-size: 21px;
+  }
+  .icons-bs-profile {
+    width: 40px;
+  }
+  .business-text {
+    font-size: 18px;
+  }
+  .email, .number, .date {
+    font-size: 14px;
+  }
+  .sub-text-bio {
+    font-size: 14px;
+  }
+  .bio-head-text {
+    font-size: 17px;
+  }
+  .heading-bio i {
+    font-size: 20px;
+  }
+  .details {
+    padding: 8px;
+  }
+  .medical-main-dv {
+    margin-top: 0px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
